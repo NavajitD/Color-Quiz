@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Shade Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <header>
+            <h1>Color Shade Quiz</h1>
+            <div class="score-container">
+                Score: <span id="score">0</span> / <span id="total-questions">0</span>
+            </div>
+        </header>
+
+        <main>
+            <div id="color-display-area">
+                <div id="color-patch"></div>
+            </div>
+
+            <div id="question-area">
+                <p>Which color is this?</p>
+            </div>
+
+            <div id="answer-options" class="answer-buttons">
+                <button class="answer-btn" id="btn0"></button>
+                <button class="answer-btn" id="btn1"></button>
+                <button class="answer-btn" id="btn2"></button>
+                <button class="answer-btn" id="btn3"></button>
+            </div>
+
+            <div id="feedback-area">
+                <p id="feedback-text"></p>
+            </div>
+
+            <div id="controls">
+                <button id="next-btn">Next</button>
+            </div>
+        </main>
+
+        <footer>
+            <p>Quiz inspired by FlagMatch.com</p>
+        </footer>
+    </div>
+
+    <div id="results-container" class="hidden">
+        <h2>Quiz Complete!</h2>
+        <p>Your final score: <span id="final-score"></span> out of <span id="final-total"></span></p>
+        <button id="restart-btn">Play Again</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

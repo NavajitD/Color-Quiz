@@ -1,15 +1,3 @@
-Colors in alphabetical order A–F
-Colors
-Name	Hex
-(RGB)	Red
-(RGB)	Green
-(RGB)	Blue
-(RGB)	Hue
-(HSL/HSV)	Satur.
-(HSL)	Light
-(HSL)	Satur.
-(HSV)	Value
-(HSV)	Source
 Absolute Zero	#0048BA	0%	28%	73%	217°	100%	37%	100%	73%	Crayola
 Acid green	#B0BF1A	69%	75%	10%	65°	76%	43%	76%	75%	Art Paints YG07S
 Aero	#7CB9E8	49%	73%	91%	206°	70%	70%	47%	91%	Maerz and Paul
@@ -275,18 +263,6 @@ Fuchsia	#FF00FF	100%	0%	100%	200°	100%	50%	100%	100%	X11/Web
 Fuchsia (Crayola)	#C154C1	76%	33%	76%	300°	47%	54%	56%	76%	Crayola
 Fulvous	#E48400	89%	52%	0%	35°	100%	45%	100%	89%	99colors.net
 Fuzzy Wuzzy	#87421F	53%	26%	12%	20°	63%	33%	77%	53%	Crayola
-Colors in alphabetical order G–M
-Colors
-Name	Hex
-(RGB)	Red
-(RGB)	Green
-(RGB)	Blue
-(RGB)	Hue
-(HSL/HSV)	Satur.
-(HSL)	Light
-(HSL)	Satur.
-(HSV)	Value
-(HSV)
 Gainsboro	#DCDCDC	86%	86%	86%	—°	0%	86%	0%	86%
 Gamboge	#E49B0F	89%	61%	6%	39°	88%	48%	93%	89%
 Generic viridian	#007F66	0%	50%	40%	168°	100%	25%	100%	50%
@@ -513,18 +489,6 @@ Mustard	#FFDB58	100%	86%	35%	47°	100%	67%	65%	100%
 Myrtle green	#317873	19%	47%	45%	176°	42%	33%	59%	47%
 Mystic	#D65282	84%	32%	51%	338°	62%	58%	62%	84%
 Mystic maroon	#AD4379	68%	26%	47%	329°	44%	47%	62%	68%
-Colors in alphabetical order N–Z
-Colors
-Name	Hex
-(RGB)	Red
-(RGB)	Green
-(RGB)	Blue
-(RGB)	Hue
-(HSL/HSV)	Satur.
-(HSL)	Light
-(HSL)	Satur.
-(HSV)	Value
-(HSV)
 Nadeshiko pink	#F6ADC6	96%	68%	78%	339°	80%	82%	80%	82%
 Naples yellow	#FADA5E	98%	85%	37%	48°	94%	67%	62%	98%
 Navajo white	#FFDEAD	100%	87%	68%	36°	100%	84%	32%	100%
